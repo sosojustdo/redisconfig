@@ -1,1 +1,1 @@
-# redisconfig
+# redis sentinel config
